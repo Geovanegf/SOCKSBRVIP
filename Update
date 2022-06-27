@@ -1,11 +1,11 @@
 {
-  "Version": "1.0.1",
+  "Version": "1.0.0",
   "ReleaseNotes": "Servidor BR-SV3 | SERVIDORES FREE E PREMIUM",
   "UrlUpdate": "https://raw.githubusercontent.com/Geovanegf/SOCKSBRVIP/main/Update",
-  "Sms": https://raw.githubusercontent.com/Geovanegf/SMS4GSOCKSBRVIP/main/ULSMS",
+  "Sms": "https://raw.githubusercontent.com/Geovanegf/SMS4GSOCKSBRVIP/main/ULSMS",
   "EmailFeedback": "lopesvida57@gmail.com",
   "UrlContato": "https://t.me/Socksbrvip",
-  "UrlTermos": https://raw.githubusercontent.com/Geovanegf/CONNECTA4GT/main/TERMOS",
+  "UrlTermos": "https://raw.githubusercontent.com/Geovanegf/CONNECTA4GT/main/TERMOS",
   "CheckUser": "true",
   "Udp": [
     {
@@ -81,7 +81,7 @@
     },
  ],
  "Networks": [
-{
+  {
    "Name": "INJECT PROXY 1",
    "FLAG": "vivo",
    "Payload": "GET wss://support.pokemon.com [protocol][crlf]Host: [app_host][crlf] Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Sec-Websocket-Extensions: superspeed[crlf][crlf]",
@@ -101,7 +101,7 @@
    "ProxyPort": "443",
    "Info": "Tlsws"
   },
-{
+  {
    "Name": "INJECT TLS 3",
    "FLAG": "vivo",
    "Payload": "GET wss://support.pokemon.com [protocol][crlf]Host: [app_host][crlf] Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Sec-Websocket-Extensions: superspeed[crlf][crlf]",
@@ -181,7 +181,7 @@
    "ProxyPort": "443",
    "Info": "Tlsws"
   },
-{
+  {
    "Name": "INJECT PROXY 11",
    "FLAG": "tim",
    "Payload": "GET wss://beringtime.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
@@ -191,7 +191,7 @@
    "ProxyPort": "443",
    "Info": "Tlsws"
   },
-{
+  {
    "Name": "INJECT TLS 12",
    "FLAG": "tim",
    "Payload": "GET \/ HTTP\/1.3[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf]Sec-Websocket-Extensions: superspeed[crlf][crlf]",
@@ -271,7 +271,7 @@
    "ProxyPort": "443",
    "Info": "Tlsws"
   },
-{
+  {
    "Name": "INJECT PROXY 20",
    "FLAG": "oi",
    "Payload": "GET \/ HTTP\/1.3[crlf]Host: [host][crlf]Upgrade: websocket[crlf]Sec-Websocket-Extensions: superspeed[crlf][crlf]",
