@@ -1,11 +1,11 @@
 {
-  "Version": "1.2.7",
+  "Version": "1.0.0",
   "ReleaseNotes": "Servidor BR-SV3 | SERVIDORES FREE E PREMIUM",
-  "UrlUpdate": "https://bitbin.it/0sROAzUz/raw/",
-  "Sms": "https://bitbin.it/oKgMpLx1/raw/",
-  "EmailFeedback": "cloudzinmaker@gmail.com",
-  "UrlContato": "https://t.me/satancloud",
-  "UrlTermos": "https://linkmenu.cc/cloudrocket",
+  "UrlUpdate": "https://raw.githubusercontent.com/Geovanegf/SOCKSBRVIP/main/Update",
+  "Sms": https://raw.githubusercontent.com/Geovanegf/SMS4GSOCKSBRVIP/main/ULSMS",
+  "EmailFeedback": "lopesvida57@gmail.com",
+  "UrlContato": "https://t.me/Socksbrvip",
+  "UrlTermos": https://raw.githubusercontent.com/Geovanegf/CONNECTA4GT/main/TERMOS",
   "CheckUser": "true",
   "Udp": [
     {
